@@ -1,12 +1,9 @@
-require(plyr)
+require(dplyr)
 
 ############################################################################################################################################################
 ## Coursera Online Course: Getting and Cleaning Data
 ## Peer Graded Assignment
 ##
-## Author: Ahmad Kamil Abdul Hamid
-## https://github.com/kawe74/
-## Submission date: 13th August 2016
 ##
 ## Task: create one R script called run_analysis.R that does the following.
 ## 
